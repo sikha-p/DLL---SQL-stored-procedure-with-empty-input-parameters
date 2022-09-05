@@ -1,0 +1,6 @@
+C:\Users\Sikha.P\source\repos\ExecuteStoredProcedure\bin\Release\ExecuteStoredProcedure.dll
+C:\Users\Sikha.P\source\repos\ExecuteStoredProcedure\bin\Release\ExecuteStoredProcedure.pdb
+C:\Users\Sikha.P\source\repos\ExecuteStoredProcedure\obj\Release\ExecuteStoredProcedure.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\ExecuteStoredProcedure\obj\Release\ExecuteStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\ExecuteStoredProcedure\obj\Release\ExecuteStoredProcedure.dll
+C:\Users\Sikha.P\source\repos\ExecuteStoredProcedure\obj\Release\ExecuteStoredProcedure.pdb
